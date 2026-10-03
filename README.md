@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Nicolás Rodríguez Galarza 🖖
 
-<!--
-**NGalarza-sysec/NGalarza-sysec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Cybersecurity Student & Web Developer
+Apasionado por la seguridad informática, el hacking ético y la resolución de desafíos técnicos.
 
-Here are some ideas to get you started:
+- 🎓 **Formación:** Estudiante de Ciberseguridad en Instituto BIOS
+- 💻 **Background:** Desarrollo Web Full Stack (JavaScript, React, Tailwind CSS, TypeScript)
+- 🎯 **Enfocado en:** Pentesting (HTB / TryHackMe), Análisis de Vulnerabilidades y Blue Team
+- 📬 **LinkedIn:** [Ver mi perfil profesional](https://www.linkedin.com/in/nicolas-mathias-rodriguez-galarza-102b75440)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📂 Mis Laboratorios y Proyectos:
+- 🧪 [Whoiam-DockerLab](https://github.com/NGalarza-sysec/Whoiam-DockerLab) — Resolución y writeup del laboratorio Whoiam en Hack The Box.
+
+---
+
+🛠️ **Tecnologías y Herramientas:**
+`Linux` | `Kali Linux` | `Nmap` | `Bash` | `JavaScript` | `React` | `Git` | `Docker`

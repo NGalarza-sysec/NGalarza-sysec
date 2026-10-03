@@ -1,10 +1,10 @@
 # Hi there, I'm Nicolás Rodríguez Galarza 🖖
 
-### 🛡️ Cybersecurity Student & Web Developer
+### 🛡️ Cybersecurity Student / Trainee | IT Support
 Apasionado por la seguridad informática, el hacking ético y la resolución de desafíos técnicos.
 
 - 🎓 **Formación:** Estudiante de Ciberseguridad en Instituto BIOS
-- 💻 **Background:** Desarrollo Web Full Stack (JavaScript, React, Tailwind CSS, TypeScript)
+- 💻 **Background:** Formación en desarrollo web (BIOS), utilizando esa base para la comprensión de vulnerabilidades en aplicaciones.
 - 🎯 **Enfocado en:** Pentesting (Dockerlabs), Análisis de Vulnerabilidades y Blue Team
 - 📬 **LinkedIn:** [Ver mi perfil profesional](https://www.linkedin.com/in/nicolas-mathias-rodriguez-galarza-102b75440)
 

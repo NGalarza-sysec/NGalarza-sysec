@@ -5,7 +5,7 @@ Apasionado por la seguridad informática, el hacking ético y la resolución de 
 
 - 🎓 **Formación:** Estudiante de Ciberseguridad en Instituto BIOS
 - 💻 **Background:** Desarrollo Web Full Stack (JavaScript, React, Tailwind CSS, TypeScript)
-- 🎯 **Enfocado en:** Pentesting (HTB / TryHackMe), Análisis de Vulnerabilidades y Blue Team
+- 🎯 **Enfocado en:** Pentesting (Dockerlabs), Análisis de Vulnerabilidades y Blue Team
 - 📬 **LinkedIn:** [Ver mi perfil profesional](https://www.linkedin.com/in/nicolas-mathias-rodriguez-galarza-102b75440)
 
 ---

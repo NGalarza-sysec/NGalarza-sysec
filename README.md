@@ -11,8 +11,9 @@ Apasionado por la seguridad informática, el hacking ético y la resolución de 
 ---
 
 ### 📂 Mis Laboratorios y Proyectos:
-- 🧪 [Whoiam-DockerLab](https://github.com/NGalarza-sysec/Whoiam-DockerLab) — Resolución y writeup del laboratorio Whoiam en Hack The Box.
-- 🧪 [Injection-DockerLab](https://github.com/NGalarza-sysec/Injection-DockerLab) — Resolución y writeup del laboratorio Injection en Hack The Box.
+- 🧪 [Whoiam-DockerLab](https://github.com/NGalarza-sysec/Whoiam-DockerLab) — Resolución y writeup del laboratorio Whoiam en DockerLabs
+- 🧪 [Injection-DockerLab](https://github.com/NGalarza-sysec/Injection-DockerLab) — Resolución y writeup del laboratorio Injection en DockerLabs
+- 🧪 [Pequenas-Mentirosas-DockerLab](https://github.com/NGalarza-sysec/Pequenas-Mentirosas-DockerLab) — Resolución y writeup del laboratorio Injection en DockerLabs
 
 ---
 
